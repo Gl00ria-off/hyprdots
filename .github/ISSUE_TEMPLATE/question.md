@@ -1,6 +1,6 @@
 ---
 name: question
-about: Hmmm
+about: If you have a question to ask
 title: ''
 labels: question
 assignees: ''

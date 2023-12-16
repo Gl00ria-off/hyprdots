@@ -1,6 +1,6 @@
 ---
 name: bug
-about: Something is not wroking right
+about: If something is not wroking right
 title: ''
 labels: bug
 assignees: ''
