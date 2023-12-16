@@ -10,12 +10,24 @@ assignees: ''
 ### Describe the bug:
 
 
-### Steps to produce:
+
+### What is the expected behavior?
 
 
 
-### Expected behavior:
+### What is the actual behavior?
 
+
+
+### Other notes on how to reproduce the issue?
 
 
 ### Screenshots (if applicable):
+
+
+### Your Environment:
+- OS:
+- Virtual Machine (Yes/No):
+
+
+### Any possible solutions?
